@@ -1,0 +1,22 @@
+/* 
+baby blue = #B8D6F2
+pastel yellow = #fff192 
+white = #ffffff
+light green = #5ced73
+*/
+
+
+.seatitle {
+  text-align: center;
+}
+
+.seapage {
+  background-color: #B8D6F2;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
